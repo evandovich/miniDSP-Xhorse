@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674304575 source:d:\c projeccts\github\sig_restore_idft\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

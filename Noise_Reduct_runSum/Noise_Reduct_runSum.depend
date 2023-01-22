@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674296645 source:d:\c projeccts\github\noise_reduct_runsum\input_signal.c
+
+1674297030 source:d:\c projeccts\github\noise_reduct_runsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

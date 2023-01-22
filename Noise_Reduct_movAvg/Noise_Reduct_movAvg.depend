@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674300926 source:d:\c projeccts\github\noise_reduct_movavg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

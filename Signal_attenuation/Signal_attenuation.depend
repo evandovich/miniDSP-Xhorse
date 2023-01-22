@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674313880 source:d:\c projeccts\github\signal_attenuation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1674296645 source:d:\c projeccts\github\signal_attenuation\input_signal.c
+
