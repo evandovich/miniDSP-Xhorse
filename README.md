@@ -1,5 +1,5 @@
 # miniDSP-Xhorse
 
-This code implements the training of our model. This code release does not include the synthetic training data we use, so the user must provide their own training data.
+This code implements the implementation of various Digital signal processing models. This code release does not include the synthetic raw data signal used, so the user can provide or generate their own waveform data information.
 
-The code is implemented in Tensorflow and the required packages are listed in requirements.txt. To train a motion blur model, run train.py, setting --model_dir to the output directory at which to save the model, and --train_pattern and --test_pattern to patterns pointing to source directories containing sharp and motion blurred images that can be used for train and test data respectively. Patterns may include wildcards, such as path/to/train/dirs/*/*. See dataset.read_images() for how the training data is expected to be structured.
+The code is implemented using Codeblock IDE and the required packages are listed in requirements.txt. To implement a module, navigate to the folder and run the main.c file. The resultant data file will be saved automatically, and user can plot the obtained data using plot program of choice. For this project, we used GNU plot for all modules setting. Hence it is highly recommended to have an installed GNU plot or see some online materials to download and run dataset on GNU plot dataset.
