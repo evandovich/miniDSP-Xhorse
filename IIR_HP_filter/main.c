@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 // File: MINILITE2.0V_Cprogram.c
-//
+//  Copyright 2021 State Key Lab for MIMO communications.
 // Author           : Evans Baidoo
 // Email            : ebaidoo2@hhu.edu.cn
 // Create Date      : 2021.12.27
